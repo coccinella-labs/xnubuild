@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/xnubuild/main/.github/assets/thumbnail.png" alt="xnubuild" width="100%">
+</p>
+
 # XNU Build
 
 [![Build Status](https://github.com/bniladridas/xnu-build/actions/workflows/build.yml/badge.svg)](https://github.com/bniladridas/xnu-build/actions/workflows/build.yml)
