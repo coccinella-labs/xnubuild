@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/xnubuild/main/.github/assets/thumbnail.png" alt="xnubuild" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/xnubuild/main/.github/assets/thumbnail.png" alt="xnubuild" width="100%">
 </p>
 
 # XNU Build
