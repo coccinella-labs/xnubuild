@@ -58,7 +58,7 @@ mkdir -p "$SOURCES_DIR"
 
 # Define repositories - XNU is the primary source (contains libkern, libc, BSD, I/O Kit)
 REPO_LIST="xnu"
-REPO_URL_XNU="https://github.com/bniladridas/darwin-xnu.git"
+REPO_URL_XNU="https://github.com/coccinella-labs/darwin-xnu.git"
 
 # Alternative sources
 ALT_REPO_LIST="dyld cctools"
