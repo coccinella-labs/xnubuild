@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/coccinella-labs/xnubuild/compare/v1.0.0...v1.0.1) (2026-09-25)
+
+
+### Bug Fixes
+
+* **docs:** correct xnu-build repo references to xnubuild ([40ed4b4](https://github.com/coccinella-labs/xnubuild/commit/40ed4b4af6c7d364118429f20f927d26b5128b17))
+
 ## 1.0.0 (2025-11-22)
 
 
