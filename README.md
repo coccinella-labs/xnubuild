@@ -4,7 +4,7 @@
 
 # XNU Build
 
-[![Build Status](https://github.com/bniladridas/xnu-build/actions/workflows/build.yml/badge.svg)](https://github.com/bniladridas/xnu-build/actions/workflows/build.yml)
+[![Build Status](https://github.com/coccinella-labs/xnu-build/actions/workflows/build.yml/badge.svg)](https://github.com/coccinella-labs/xnu-build/actions/workflows/build.yml)
 
 A comprehensive build system for compiling Apple's XNU kernel on macOS, featuring automated environment detection, source management, and compilation fixes for common issues.
 
@@ -90,7 +90,7 @@ xcodebuild -version
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bniladridas/xnu-build.git
+   git clone https://github.com/coccinella-labs/xnu-build.git
    cd xnu-build
    ```
 
